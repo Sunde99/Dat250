@@ -1,5 +1,8 @@
 # Report
 
+## NEW
+Now persists object world
+
 ## Technical Problems:
 I had problems running the main file as my derby was too old. 
 Intellj said it had the latest version, yet it was outdated. 
